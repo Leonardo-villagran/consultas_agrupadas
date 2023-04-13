@@ -14,6 +14,6 @@
 
 * Se adjunta en el repositorio el archivo SQL con mi nombre en el link:
 
-![https://github.com/Leonardo-villagran/consultas_agrupadas/blob/main/leonardo_villagran.sql](https://github.com/Leonardo-villagran/consultas_agrupadas/blob/main/leonardo_villagran.sql)
+[https://github.com/Leonardo-villagran/consultas_agrupadas/blob/main/leonardo_villagran.sql](https://github.com/Leonardo-villagran/consultas_agrupadas/blob/main/leonardo_villagran.sql)
 
 
