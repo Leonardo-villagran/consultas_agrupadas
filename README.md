@@ -12,5 +12,8 @@
 
 * Finalmente se responden las preguntas a través de consultas en formato SQL. 
 
-* Se adjunta en el repositorio el archivo SQL con mi nombre.
+* Se adjunta en el repositorio el archivo SQL con mi nombre en el link:
+
+![https://github.com/Leonardo-villagran/consultas_agrupadas/blob/main/leonardo%20villagran.sql](https://github.com/Leonardo-villagran/consultas_agrupadas/blob/main/leonardo%20villagran.sql)
+
 
